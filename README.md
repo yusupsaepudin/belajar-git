@@ -15,6 +15,12 @@ git config --global user.email contoh@email.com"
 ```
 Jika kamu mempunyai akun Github, Bitbucket atau yang lainnya. Sesuaikan nama _emailnya_ agar mudah diintegrasikan.
 
+## Membuat Repositori
+
+Untuk membuat repositori baru, buka Terminal/Command Prompt lalu ketik perintah `git init nama-direktori`. Contoh:
+```
+git init proyek-01
+```
 
 
 ## Referensi lainnya

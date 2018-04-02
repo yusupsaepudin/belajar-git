@@ -19,7 +19,7 @@ Jika kamu mempunyai akun Github, Bitbucket atau yang lainnya. Sesuaikan nama _em
 
 Untuk membuat repositori baru, buka Terminal/Command Prompt lalu ketik perintah `git init nama-direktori`. Contoh:
 ```
-git init proyek-01
+git init latihan-git
 ```
 
 

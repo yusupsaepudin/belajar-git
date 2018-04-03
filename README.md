@@ -22,7 +22,6 @@ Untuk membuat repositori baru, buka Terminal/Command Prompt lalu ketik perintah 
 git init latihan-git
 ```
 
-
 ## Referensi lainnya
 
 * https://try.github.io/

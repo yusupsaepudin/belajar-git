@@ -7,6 +7,7 @@
 * Buka Terminal/Command Prompt lalu ketik `git --version` untuk melihat versi Git yang terinstall
 
 ## Konfigurasi Git
+
 Ada beberapa konfigurasi yang harus diatur sebelum memulai Git, seperti nama dan email.
 Silahkan gunakan perintah berikut ini :
 
